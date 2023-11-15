@@ -5,7 +5,7 @@ NAMA  :Muhamad Farras Jasir
 
 NIM  :312210361
 
-KELAS  :312210361
+KELAS  :TI.22.A5
 
 MATA KULIAH  :Program Mobile
 
