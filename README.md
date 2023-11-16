@@ -276,7 +276,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-![Screenshot (153)](https://github.com/IdrisSyahrudin/UTS-Deret-Febonacci/assets/129921422/dcda4a3e-cb11-4400-9e5d-08e8f53d08d6)
+
 
 
 
@@ -286,10 +286,15 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+![Screenshot (385)](https://github.com/muhamadfarrasjasir12/utsprogram_mobile/assets/150880443/5e2efca2-7a37-4985-ad22-f77a9109ea77)
 
 
 
-https://github.com/IdrisSyahrudin/UTS-Deret-Febonacci/assets/129921422/72f3e981-8e42-44a3-a5ff-46244d4e08d5
+
+
+https://github.com/muhamadfarrasjasir12/utsprogram_mobile/assets/150880443/a1ccff87-d6e6-4979-8d77-5316ae8452ad
+
+
 
 
 
